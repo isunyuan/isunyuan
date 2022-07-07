@@ -1,5 +1,21 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-### About me
-🍉 I'm focusing on learning front-end knowledge, sometimes learning UE4.
+### <div align="center">FE developer </div>  
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isunyuan&layout=compact)](https://github.com/isunyuan/github-readme-stats)
+<div align="center">👨‍💻 Commonly used React for development</div>  
+  
+
+<div align="center">📍 Currently in Ningbo, Zhejiang, China. But I yearn for Chengdu</div>  
+  
+
+<div align="center">😹 中文比较流利</div>  
+  
+
+<br/>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isunyuan&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+<br />
