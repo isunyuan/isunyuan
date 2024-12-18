@@ -13,9 +13,5 @@
   
 
 <div align="center">😹 中文比较流利</div>  
-  
 
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isunyuan&hide_border=true&layout=compact" align="center" /></div>
 <br />
